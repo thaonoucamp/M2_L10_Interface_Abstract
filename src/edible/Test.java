@@ -1,5 +1,8 @@
 package edible;
 
+import fruit.Apple;
+import fruit.Fruit;
+import fruit.Orange;
 import myInterface.Animal;
 import myInterface.Tiger;
 
